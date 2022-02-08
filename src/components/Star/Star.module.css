@@ -1,0 +1,10 @@
+.star {
+  font-size: 1.5em;
+  cursor: pointer;
+  padding: 12px 2px;
+  transition: margin-bottom .2s ease-in-out;
+}
+
+.star:hover {
+  margin-bottom: 8px;
+}

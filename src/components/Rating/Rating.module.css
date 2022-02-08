@@ -1,0 +1,6 @@
+.rating {
+  background: linear-gradient(to right, #fff, #fff, #ffce45, #d4ac2b, #b05e27, #7e370c, #000, #000);
+  background-attachment: fixed;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
