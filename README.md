@@ -5,10 +5,16 @@ Simple rating component
 ## Usage
 
 ### Install Dependencies
-`yarn`
+```
+yarn
+```
 
 ### Run
-`yarn start`
+```
+yarn start
+```
 
 ### Build
-`yarn build`
+```
+yarn build
+```
